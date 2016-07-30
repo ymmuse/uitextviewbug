@@ -8,4 +8,4 @@ This is a demo for testing a UITextView bug.
 
 
 # Setting lineHeight:
-![](setting_lineSpacing.png)
+![](setting_lineHeight.png)
